@@ -14036,9 +14036,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   messageInput: {fileID: 1763631827}
-  TextArea: {fileID: 1491545106}
+  textArea: {fileID: 1491545106}
   scrollView: {fileID: 2135481516}
-  PlayerSettings: {fileID: 1163823893913269208, guid: 874db8560cd6d9648aa1a00728413abf, type: 3}
 --- !u!1 &2011647414
 GameObject:
   m_ObjectHideFlags: 0
